@@ -1,0 +1,14 @@
+tl3191:
+Most of the HTML & CSS polishing & coding, including icon & user interface design.
+Adding "Weather Foreast", "Email Us" on every homepage.
+Adding 404&500 ERROR page.
+Adding about.html, which giving basic info of our project.
+Adding narvbar.
+Helping Keith debug PYTHON & SQL & HTML code.
+
+yw5326:
+Most of the PYTHON coding, including SQL query sentences.
+Basic HTML coding.
+Adding Top destination function.
+Adding flights status stats
+Helping Leo polish the website.
